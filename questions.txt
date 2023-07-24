@@ -2,7 +2,7 @@ Question 1: What is your favorite color? purple
 
 Question 2: What is your favorite programming language? Java
 
-Question 3: What is your favorite food?
+Question 3: What is your favorite food? cake pops
 
 Question 4: What is your favorite movie?
 
